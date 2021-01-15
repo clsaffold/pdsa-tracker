@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2NFTW2iMBMo8TjCKODpOyqUE3Qy6QQ5m3y+mvHGwWz6atnJxqenyTqP/ZGMjUJONKb0VdwMFAdVSkGgZ2Ua1A==",
+  "dgSpecHash": "SWbWab40Cdc5OC8WqDbKgMPc9CPK/t9uUatzy7rQV6FaVc0pDRfv5H1NP7O3BgmUKuLGAQHFbxyeSOcJfyjuFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\pdsatracker.csproj",
+  "projectFilePath": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\pdsa-tracker\\pdsatracker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

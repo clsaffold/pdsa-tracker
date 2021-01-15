@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\pdsatracker.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\pdsa-tracker\\pdsatracker.csproj",
       "projectName": "pdsatracker",
-      "projectPath": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\pdsatracker.csproj",
+      "projectPath": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\pdsa-tracker\\pdsatracker.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\obj\\",
+      "outputPath": "C:\\Users\\HP\\lc101\\liftoff\\pdsatracker\\pdsa-tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
