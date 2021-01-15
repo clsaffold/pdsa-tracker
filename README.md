@@ -2,7 +2,19 @@
 
 ## Background
 
-Since 2012 I have worked closely with healthcare organizations to implement high quality lower cost care delivery models that promote both patient and care team satisfaction. The tools and many of the tactics we use to achieve this aim are nearly universal accepted despite a very limited body of quantitative data to support their efficacy. This application will bring together widely accepted Advanced Primary Care best practices, core clinical quality measures and standard quality improvement activities to allow organizations to track the correlation between their change initiatives and outcomes achieved. A standard set of evidence-based comprehensive care aims, driver and tactics with corresponding measures will be developed and incorporated into an existing Measures Database. Practices will be able to enter their rapid cycle plan-do-study-act (PDSA) project details, tying them with their pre-defined aims and capturing their intended impacts through measures. Practice quality improvement facilitators (PF) will be able to log their interactions with practices and connect their notes with practice PDSA entries. Finally, practices or PFs will be able to upload .csv files containing measures to be ingested into the existing Measures Database to demonstrate the results of practice change initiatives. No other fully comprehensive and widely available tool exists to support primary care practices in their efforts to demonstrate return on investment and value of work to continually improve care delivery. This suite of features will advance the ability of primary care to show tremendous reduction of total cost of care along with improved quality when the investment primary care is increased. (For liftoff I am focused on PDSA Tracker and .csv file import/data ingesting)
+Since 2012 I have worked closely with healthcare organizations to implement high quality lower cost care delivery models that promote
+ both patient and care team satisfaction. The tools and many of the tactics we use to achieve this aim are nearly universal accepted despite
+ a very limited body of quantitative data to support their efficacy. This application will bring together widely accepted Advanced Primary
+ Care best practices, core clinical quality measures and standard quality improvement activities to allow organizations to track the correlation
+ between their change initiatives and outcomes achieved. A standard set of evidence-based comprehensive care aims, driver and tactics with 
+ corresponding measures will be developed and incorporated into an existing Measures Database. Practices will be able to enter their rapid cycle
+ plan-do-study-act (PDSA) project details, tying them with their pre-defined aims and capturing their intended impacts through measures. 
+ Practice quality improvement facilitators (PF) will be able to log their interactions with practices and connect their notes with practice 
+ PDSA entries. Finally, practices or PFs will be able to upload .csv files containing measures to be ingested into the existing Measures Database
+ to demonstrate the results of practice change initiatives. No other fully comprehensive and widely available tool exists to support primary care
+ practices in their efforts to demonstrate return on investment and value of work to continually improve care delivery. This suite of features will
+ advance the ability of primary care to show tremendous reduction of total cost of care along with improved quality when the investment primary care
+ is increased. (For liftoff I am focused on PDSA Tracker and .csv file import/data ingesting)
 
 
 PDSA Tracker 
