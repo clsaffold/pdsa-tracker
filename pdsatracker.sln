@@ -5,11 +5,6 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pdsatracker", "pdsatracker.csproj", "{2818EF28-71FF-44E5-A2B6-A16F15247C54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp1", "..\WebApp1\WebApp1.csproj", "{8E319339-29F4-4FE9-ACFF-675602EEAFFA}"
-	ProjectSection(ProjectDependencies) = postProject
-		{2818EF28-71FF-44E5-A2B6-A16F15247C54} = {2818EF28-71FF-44E5-A2B6-A16F15247C54}
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,10 +15,6 @@ Global
 		{2818EF28-71FF-44E5-A2B6-A16F15247C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2818EF28-71FF-44E5-A2B6-A16F15247C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2818EF28-71FF-44E5-A2B6-A16F15247C54}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E319339-29F4-4FE9-ACFF-675602EEAFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E319339-29F4-4FE9-ACFF-675602EEAFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E319339-29F4-4FE9-ACFF-675602EEAFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E319339-29F4-4FE9-ACFF-675602EEAFFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
