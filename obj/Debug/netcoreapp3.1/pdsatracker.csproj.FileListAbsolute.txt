@@ -222,3 +222,8 @@ C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\pdsat
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Create.cshtml.g.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Delete.cshtml.g.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Details.cshtml.g.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Edit.cshtml.g.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Index.cshtml.g.cs
