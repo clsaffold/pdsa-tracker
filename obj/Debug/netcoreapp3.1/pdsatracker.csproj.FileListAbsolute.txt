@@ -219,6 +219,7 @@ C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\bin\Debug\netcoreapp3.1\Micro
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+<<<<<<< HEAD
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Create.cshtml.g.cs
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Delete.cshtml.g.cs
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Pdsas\Details.cshtml.g.cs
@@ -227,3 +228,9 @@ C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+=======
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\pdsatracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\HP\lc101\liftoff\pdsatracker\pdsa-tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+>>>>>>> parent of e380456 (Stuck on using two databases for the app)
